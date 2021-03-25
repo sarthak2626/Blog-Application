@@ -1,2 +1,2 @@
-# Blog-Application
-a project is made using jsp , servlet , CSS ,jdbc ,java .
+# Blog
+Blog application created in Java.
